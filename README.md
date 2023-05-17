@@ -1,2 +1,2 @@
 This is a repo for alx simple_shell project
-contributor:<https://github.com/Joshpee22>
+contributor: <owobujoshua2017@gmail.com>
